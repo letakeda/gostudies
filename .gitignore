@@ -1,2 +1,2 @@
 # Unignore all with extensions
-*.go
+!*.go
